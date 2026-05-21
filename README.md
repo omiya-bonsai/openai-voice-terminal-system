@@ -1,28 +1,31 @@
+[日本語版 (README.ja.md)](./README.ja.md)
+
 # openai-voice-terminal-system
 
-Raspberry Pi 5 側の音声サーバー (`openai-voice-terminal`) と、
-AtomS3R 側クライアント (`ATOMS3R-OpenAI-VoicePTT-HTTP`) を統合運用するためのドキュメントリポジトリです。
+This repository centralizes documentation for operating the two project repositories together:
 
-このリポジトリは実装コード本体を持たず、構成・運用・手順の単一参照点として利用します。
+- Raspberry Pi 5 voice server: `openai-voice-terminal`
+- AtomS3R client firmware: `ATOMS3R-OpenAI-VoicePTT-HTTP`
 
-## 対象リポジトリ
+It does not contain the main implementation code.  
+Its role is to provide a single source of truth for architecture, setup, and operations.
 
-- Pi5 サーバー: `./openai-voice-terminal`
-- GitHub: [omiya-bonsai/openai-voice-terminal](https://github.com/omiya-bonsai/openai-voice-terminal)
-- AtomS3R クライアント: `./ATOMS3R-OpenAI-VoicePTT-HTTP`
-- GitHub: [omiya-bonsai/ATOMS3R-OpenAI-VoicePTT-HTTP](https://github.com/omiya-bonsai/ATOMS3R-OpenAI-VoicePTT-HTTP)
+## Target Repositories
 
-## ドキュメント一覧
+- Pi5 server: [omiya-bonsai/openai-voice-terminal](https://github.com/omiya-bonsai/openai-voice-terminal)
+- AtomS3R client: [omiya-bonsai/ATOMS3R-OpenAI-VoicePTT-HTTP](https://github.com/omiya-bonsai/ATOMS3R-OpenAI-VoicePTT-HTTP)
 
-- [システム概要](./docs/overview.md)
-- [アーキテクチャ](./docs/architecture.md)
-- [セットアップ手順](./docs/setup.md)
-- [運用手順](./docs/operations.md)
-- [リポジトリ運用方針](./docs/repositories.md)
+## Documentation
 
-## 使い方
+- [System Overview](./docs/overview.md)
+- [Architecture](./docs/architecture.md)
+- [Setup Guide](./docs/setup.md)
+- [Operations Guide](./docs/operations.md)
+- [Repository Policy](./docs/repositories.md)
 
-1. まず [システム概要](./docs/overview.md) を読む
-2. 初回構築は [セットアップ手順](./docs/setup.md) に従う
-3. 日常運用は [運用手順](./docs/operations.md) を参照する
-4. 変更時は [リポジトリ運用方針](./docs/repositories.md) に従う
+## How To Use
+
+1. Start with [System Overview](./docs/overview.md).
+2. Follow [Setup Guide](./docs/setup.md) for first-time setup.
+3. Use [Operations Guide](./docs/operations.md) for daily operation.
+4. Follow [Repository Policy](./docs/repositories.md) when making changes.

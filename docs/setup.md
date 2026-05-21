@@ -2,11 +2,9 @@
 
 ## 1. リポジトリ配置を確認
 
-- Pi5 サーバー: `./openai-voice-terminal`
-- GitHub: [omiya-bonsai/openai-voice-terminal](https://github.com/omiya-bonsai/openai-voice-terminal)
-- AtomS3R: `./ATOMS3R-OpenAI-VoicePTT-HTTP`
-- GitHub: [omiya-bonsai/ATOMS3R-OpenAI-VoicePTT-HTTP](https://github.com/omiya-bonsai/ATOMS3R-OpenAI-VoicePTT-HTTP)
-- 統合ドキュメント: `./openai-voice-terminal-system`
+- Pi5 サーバー: [omiya-bonsai/openai-voice-terminal](https://github.com/omiya-bonsai/openai-voice-terminal)
+- AtomS3R: [omiya-bonsai/ATOMS3R-OpenAI-VoicePTT-HTTP](https://github.com/omiya-bonsai/ATOMS3R-OpenAI-VoicePTT-HTTP)
+- 統合ドキュメント: `openai-voice-terminal-system`
 
 ## 2. Pi5 サーバーの準備
 
