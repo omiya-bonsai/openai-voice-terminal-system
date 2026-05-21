@@ -15,7 +15,7 @@ Its role is to provide a single source of truth for architecture, setup, and ope
 - Pi5 server: [omiya-bonsai/openai-voice-terminal](https://github.com/omiya-bonsai/openai-voice-terminal)
 - AtomS3R client: [omiya-bonsai/ATOMS3R-OpenAI-VoicePTT-HTTP](https://github.com/omiya-bonsai/ATOMS3R-OpenAI-VoicePTT-HTTP)
 
-![OpenAI Voice Terminal Architecture](./images/openai-voice-terminal-architecture.svg)
+![OpenAI Voice Terminal Architecture](./images/openai-voice-terminal-architecture.png)
 
 ![Photo 1](./images/img_8898.jpg)
 
