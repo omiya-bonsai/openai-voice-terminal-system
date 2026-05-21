@@ -35,3 +35,7 @@ Its role is to provide a single source of truth for architecture, setup, and ope
 2. Follow [Setup Guide](./docs/setup.en.md) for first-time setup.
 3. Use [Operations Guide](./docs/operations.en.md) for daily operation.
 4. Follow [Repository Policy](./docs/repositories.en.md) when making changes.
+
+## AI Assistance
+
+Parts of this repository, its documentation, and related assets were developed with assistance from AI tools including Codex app and GitHub Copilot.
