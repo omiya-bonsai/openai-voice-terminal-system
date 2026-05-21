@@ -6,10 +6,12 @@
   - Pi5 実装コード
   - API 連携仕様
   - サーバー挙動変更
+  - GitHub: [omiya-bonsai/openai-voice-terminal](https://github.com/omiya-bonsai/openai-voice-terminal)
 - `ATOMS3R-OpenAI-VoicePTT-HTTP`:
   - デバイス実装コード
   - ボタン操作
   - 録音/再生制御
+  - GitHub: [omiya-bonsai/ATOMS3R-OpenAI-VoicePTT-HTTP](https://github.com/omiya-bonsai/ATOMS3R-OpenAI-VoicePTT-HTTP)
 - `openai-voice-terminal-system`:
   - 横断ドキュメント
   - セットアップ/運用/障害対応
