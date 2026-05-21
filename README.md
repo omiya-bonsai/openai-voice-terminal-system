@@ -39,3 +39,7 @@ Its role is to provide a single source of truth for architecture, setup, and ope
 ## AI Assistance
 
 Parts of this repository, its documentation, and related assets were developed with assistance from AI tools including Codex app and GitHub Copilot.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](./LICENSE).
