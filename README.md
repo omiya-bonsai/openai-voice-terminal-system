@@ -29,7 +29,7 @@ Its role is to provide a single source of truth for architecture, setup, and ope
 
 ## How To Use
 
-1. Start with [System Overview](./docs/overview.md).
-2. Follow [Setup Guide](./docs/setup.md) for first-time setup.
-3. Use [Operations Guide](./docs/operations.md) for daily operation.
-4. Follow [Repository Policy](./docs/repositories.md) when making changes.
+1. Start with [System Overview](./docs/overview.en.md).
+2. Follow [Setup Guide](./docs/setup.en.md) for first-time setup.
+3. Use [Operations Guide](./docs/operations.en.md) for daily operation.
+4. Follow [Repository Policy](./docs/repositories.en.md) when making changes.
